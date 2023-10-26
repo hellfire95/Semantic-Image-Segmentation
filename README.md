@@ -45,7 +45,10 @@ The dataset contains two main folders:
 This project illustrates the process of building and training an FCN for image segmentation and evaluating its performance on real-world data. The steps provided serve as a guideline for implementing and testing your own segmentation models.
 
 
-## Screenshots
+## Architecture
 
 ![FCN-8](https://github.com/hellfire95/Semantic-Image-Segmentation/blob/main/fcn8.png?raw=true)
+
+## Result of Model (Prediction)
+![presiction](https://github.com/hellfire95/Semantic-Image-Segmentation/blob/main/FCN_6_result.png?raw=true)
 
