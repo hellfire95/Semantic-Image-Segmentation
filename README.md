@@ -47,5 +47,5 @@ This project illustrates the process of building and training an FCN for image s
 
 ## Screenshots
 
-![FCN-8]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/hellfire95/Semantic-Image-Segmentation/blob/main/fcn8.png)https://github.com/hellfire95/Semantic-Image-Segmentation/blob/main/fcn8.png)
+![FCN-8](https://github.com/hellfire95/Semantic-Image-Segmentation/blob/main/fcn8.png?raw=true)
 
